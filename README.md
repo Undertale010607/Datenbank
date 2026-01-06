@@ -1,6 +1,6 @@
 # Datenbank
 
-Dieses kleine Java-Programm bietet eine einfache SQLite-basierte Adressdatenbank mit CRUD-Funktionen.
+Kleines Java-Programm das eine einfache SQLite-basierte Datenbank anbietet .
 
 Kurzbeschreibung
 - Erzeugt und verwaltet die Tabelle `menschen` (Spalten: `id`, `vorname`, `nachname`, `adresse`, `alter`).
